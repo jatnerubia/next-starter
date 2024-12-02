@@ -34,7 +34,7 @@
     "@types/node": "^22",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@vitejs/plugin-react": "^4.3.3",
+    "@vitejs/plugin-react": "^4.3.4",
     "eslint": "^9.15.0",
     "eslint-config-next": "^15.0.1",
     "eslint-plugin-n": "^17.11.1",
